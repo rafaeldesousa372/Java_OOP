@@ -1,1 +1,1 @@
-Porgramado criado para cálculo de área de um tringulo
+Porgramado criado para cálculo de área de um triangulo
